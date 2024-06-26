@@ -16,8 +16,8 @@ PDF Editor is a simple and easy-to-use tool for opening and editing PDF files. T
 
 - Java Development Kit (JDK) 17 or higher
 - [Maven](https://maven.apache.org/)
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [Angular CLI](https://angular.io/cli)
+- [Node.js](https://nodejs.org/) 20.13.1 (LTS version)
+- [Angular CLI](https://angular.io/cli) 18.0.1
 
 ### Steps
 
@@ -92,10 +92,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Swing](https://docs.oracle.com/javase/tutorial/uiswing/) for the back-end GUI
 - [Angular](https://angular.io/) for the front-end framework
 
-## Contact
-
-For any questions or suggestions, please open an issue or contact us at your-email@example.com.
-
----
-
-Feel free to customize this README file to better fit your project's specific details and needs.
